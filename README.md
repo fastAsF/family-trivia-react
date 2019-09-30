@@ -20,6 +20,10 @@ I do have a full time job, so if you are interested in collaborating and have re
 
 If you have a better idea for the design all ideas are welcome, I just want to have the game fully available online without having to pay for hosting, for the most part firebase free account is pretty good and I don't think surveys will use too much bandwidth.
 
+## Trello Board
+
+https://trello.com/b/Iy345e2L/family-trivia-react
+
 ### Hacktoberfest Goal - First Phase
 
 - Finish the design
