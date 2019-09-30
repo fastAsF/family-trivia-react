@@ -1,68 +1,39 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# family-trivia-react
+family feud clone in react with github pages, and firebase.
 
-## Available Scripts
+## Introduction
 
-In the project directory, you can run:
+I have been contemplating doing this game for a while, I was going to go the easy route and build it on unity3D, but since I really like the challenge I will build it in react after taking a course on it. I am a well seasoned programmer in python and java so if I make a crazy mistake know that web is not my forte.
 
-### `npm start`
+## Why
 
-Runs the app in the development mode.<br>
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+At the house we play games on Sunday, and Family Feud is a nice game for the family. The problem with many implementations is the lack of surveys, or some you have to actually create them to start playing. The one I downloaded was a powerpoint, and I had to go into each slide and put my survey questions and answers and some fake survey points.
 
-The page will reload if you make edits.<br>
-You will also see any lint errors in the console.
+## Goal
 
-### `npm test`
+The goal is to have a self sustaining system where players can build the survey ecosystem, so others can quickly play. It will take some time to build the survey database, but in the end I think it will be a pretty good system overall.
 
-Launches the test runner in the interactive watch mode.<br>
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## How to Contribute
 
-### `npm run build`
+I thought it would be a good idea to host this for hacktoberfest. All contributions are welcomed!
+I do have a full time job, so if you are interested in collaborating and have react experience/firebase let me know. 
 
-Builds the app for production to the `build` folder.<br>
-It correctly bundles React in production mode and optimizes the build for the best performance.
+If you have a better idea for the design all ideas are welcome, I just want to have the game fully available online without having to pay for hosting, for the most part firebase free account is pretty good and I don't think surveys will use too much bandwidth.
 
-The build is minified and the filenames include the hashes.<br>
-Your app is ready to be deployed!
+### Hacktoberfest Goal - First Phase
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- Finish the design
+- Have a working game with dummy data
+- Have a working game where users can write a survey and play with it
 
-### `npm run eject`
+### Second Phase
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+- Setup firebase auth
+- Setup firebase database
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### Third Phase
 
-Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+- Implement survey system
+- Implement save system?
+- Would a score
+- Would a score9
