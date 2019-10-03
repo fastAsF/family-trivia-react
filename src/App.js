@@ -1,5 +1,6 @@
 import React from 'react';
 import logo from './logo.svg';
+import hacktoberfestLogo from './hacktoberfest_2019.svg'
 import './App.css';
 
 function App() {
@@ -8,16 +9,9 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          Welcome to Family Trivia
         </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+          <img src={hacktoberfestLogo} alt="hacktoberfest"></img>
       </header>
     </div>
   );
